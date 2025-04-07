@@ -8,4 +8,4 @@ function addDiv(id, string) {
 
 //current_doc = document.body.innerHTML;
 //document.body.innerHTML = current_doc + "HELLO!"
-addDiv("test", "HELLO!");
+addDiv("test", "HELLO!?");
