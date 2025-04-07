@@ -1,4 +1,4 @@
-function addDiv(id: string, text: string) {
+function addDiv(id, string) {
   const parentElement = document.getElementById(id);
   const newElement = document.createElement("div");
   newElement.textContent = text;
