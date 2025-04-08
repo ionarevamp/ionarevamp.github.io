@@ -16,6 +16,6 @@ addDiv("test", "HELLO!?");
 
 var i = 0;
 while (i < 100000000000) {
-  setTextById(id, i);
+  setTextById("test", i);
   i += 1;
 }
