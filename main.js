@@ -15,7 +15,7 @@ function setTextById(id, text) {
 addDiv("test", "HELLO!?");
 
 var i = 0;
-while (i < 100) {
-  setTextBId(id, i);
+while (i < 100000000000) {
+  setTextById(id, i);
   i += 1;
 }
